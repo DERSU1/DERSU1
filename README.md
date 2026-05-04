@@ -4,7 +4,7 @@ Sou estudante de Bacharelado em Engenharia de Software e atualmente busco minha 
 
 ### Tecnologias e Ferramentas
 - **Linguagens:** Java, JavaScript (Node.js), Dart (Flutter), SAP (ABAP)
-- **Frontend:** HTML5, CSS3
+- **Frontend:** HTML5, CSS3, JavaScript
 - **Projetos Atuais:** Desenvolvimento de sistemas de controle de estoque e aplicações de serviços sob demanda.
 
 
