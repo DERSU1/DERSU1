@@ -8,5 +8,5 @@ Sou estudante de Bacharelado em Engenharia de Software e atualmente busco minha 
 - **Projetos Atuais:** Desenvolvimento de sistemas de controle de estoque e aplicações de serviços sob demanda.
 
 
-**Como me encontrar:**  Linkedin:( https://www.linkedin.com/in/anderson-silva-teixeira/ ) |
+**Como me encontrar:**  Linkedin: ( https://www.linkedin.com/in/anderson-silva-teixeira/ ) |
                         E-mail: ( andersonteixeiradev@gmail.com )
