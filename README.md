@@ -1,3 +1,5 @@
+
+
 # Olá, eu sou o Anderson Silva
 
 Sou estudante de Bacharelado em Engenharia de Software e atualmente busco minha primeira oportunidade como Estagiário de TI. Tenho focado meu aprendizado em construir soluções eficientes tanto para Web quanto para Mobile.
@@ -10,6 +12,3 @@ Sou estudante de Bacharelado em Engenharia de Software e atualmente busco minha 
 
 **Como me encontrar:**  Linkedin: ( https://www.linkedin.com/in/anderson-silva-teixeira/ ) |
                         E-mail: ( andersonteixeiradev@gmail.com )
-
-                        ![Estatísticas do Github[ (https://vercel.app)
-                        ![Linguagens Mais Usadas[ (https://vercel.app)
