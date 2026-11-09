@@ -10,3 +10,6 @@ Sou estudante de Bacharelado em Engenharia de Software e atualmente busco minha 
 
 **Como me encontrar:**  Linkedin: ( https://www.linkedin.com/in/anderson-silva-teixeira/ ) |
                         E-mail: ( andersonteixeiradev@gmail.com )
+
+                        ![Estatísticas do Github[ (https://vercel.app)
+                        ![Linguagens Mais Usadas[ (https://vercel.app)
